@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div className='relative'>
         {/* Banner Image */}
-            <img className='w-full h-[85vh]' src="/assets/Banner-min.jpg" alt="" />
+            <img className='w-full h-[85vh]' src="https://i.ibb.co.com/gbxs8mFL/Banner-min.jpg" alt="" />
             
             {/* Text Overlay */}
             <div className="text-banner absolute inset-50 text-white space-y-6">
